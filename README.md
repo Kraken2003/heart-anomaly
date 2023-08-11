@@ -55,4 +55,4 @@ The utilization of different window sizes to accommodate the default CSV data in
 
 ## License
 
-📜 This project is licensed under the [MIT License](LICENSE).
+📜 This project is licensed under the [MIT License]([LICENSE](https://github.com/Kraken2003/heart-anomaly/blob/main/LICENSE)https://github.com/Kraken2003/heart-anomaly/blob/main/LICENSE).
