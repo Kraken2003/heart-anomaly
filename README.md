@@ -1,13 +1,13 @@
-# Heart Anomaly Detection
+# Heart Anomaly Detection 🫀
 
-![GitHub]([https://github.com/Kraken2003/heart-anomaly/tree/main])
+[GitHub]([https://github.com/Kraken2003/heart-anomaly/tree/main])
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Pre-processing](#preprocessing)
-- [Model Information](#modelinformation)
+- [Model Information](#model)
 - [Usage](#usage)
 - [License](#license)
 
