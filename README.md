@@ -6,8 +6,8 @@
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Pre-processing](#preprocessing)
-- [Model Information](#model)
+- [Pre-processing](#pre-processing)
+- [Model Information](#model-information)
 - [Usage](#usage)
 - [License](#license)
 
@@ -21,7 +21,7 @@ Cardiac arrhythmias, irregular heart rhythms, can be indicative of underlying he
 📊 The dataset used for this project is the [ECG Arrhythmia Database](https://physionet.org/content/ecg-arrhythmia/1.0.0/) from PhysioNet. It consists of 105 records, each containing 12-lead ECG signals and annotations for various arrhythmias and cardiac events.
 The dataset acts as a treasure trove of real-world ECG data, enabling us to simulate and explore a diverse range of cardiac scenarios. Each record encapsulates valuable information about the heart's electrical activity, providing a dynamic and intricate representation of cardiac function.
 
-### Preprocessing
+### Pre-processing
 
 ⚙️ Converting raw data into a format suitable for deep learning is a crucial step in our workflow. To ensure accurate and efficient model training, we performed the following preprocessing steps:
 
